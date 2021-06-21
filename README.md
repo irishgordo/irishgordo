@@ -79,7 +79,8 @@ CPU: AMD Ryzen 9 5900X (24) @ 3.700GHz
 
 GPU: NVIDIA GEFORCE RTX 3070
 
-Memory: 7373MiB / 64286MiB 
+Memory: 64286MiB 
+
 </code>
 <h2>🔭 Links</h2>
 <ul>
