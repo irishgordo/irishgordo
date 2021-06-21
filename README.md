@@ -1,4 +1,4 @@
-<h1>Oh hi there 👋, I'm Mike</h1>
+<h1>Hi there 👋, I'm Mike</h1>
 <div>
 <img alt="A badge logo for AWS" src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">&nbsp;
 <img alt="A badge logo for Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-black?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black">&nbsp;
