@@ -48,7 +48,7 @@
 <li><a href="https://www.credly.com/badges/5f0bd66b-4952-4cb8-b6b7-03a50083394b">AWS Developer</a></li>
 </ul>
 <h2>🖥 Hardware & Software</h2>
-<code>
+```
 OS: Pop!_OS 20.10 x86_64
 
 Kernel: 5.11.0-7614-generic
@@ -76,7 +76,7 @@ CPU: AMD Ryzen 9 5900X (24) @ 3.700GHz
 GPU: NVIDIA GEFORCE RTX 3070
 
 Memory: 64286MiB 
-</code>
+```
 <h2>🔭 Links</h2>
 <ul>
 <li><a href="https://launchpad.net/~irishgordo">Canonical Launchpad Profile<a/</li>
