@@ -49,38 +49,20 @@
 </ul>
 <h2>🖥 Hardware & Software</h2>
 <code>
-gordo@gordobox 
-
--------------- 
-
 OS: Pop!_OS 20.10 x86_64
-
 Kernel: 5.11.0-7614-generic
-
 Packages: 2859 (dpkg), 6 (flatpak), 18 (snap) 
-
 Shell: zsh 5.8 
-
 Resolution: 1440x2560, 3840x2160 
-
 DE: GNOME 3.38.3 
-
 WM: Mutter 
-
 WM Theme: Pop 
-
 Theme: Pop-dark [GTK2/3] 
-
 Icons: Pop [GTK2/3] 
-
 Terminal: kitty 
-
 CPU: AMD Ryzen 9 5900X (24) @ 3.700GHz 
-
 GPU: NVIDIA GEFORCE RTX 3070
-
 Memory: 64286MiB 
-
 </code>
 <h2>🔭 Links</h2>
 <ul>
@@ -88,4 +70,5 @@ Memory: 64286MiB
 <li><a href="https://hub.docker.com/u/irishgordo">DockerHub Profile</a></li>
 <li><a href="https://support.mozilla.org/en-US/user/michael.j.russell.email">Mozilla Support Wiki Contributor</a></li>
 <li><a href="https://www.linkedin.com/in/michael-russell-slc/">LinkedIn</a></li>
+<li><a href="https://open.spotify.com/user/12159848207">Spotify</a></li>
 </ul>
