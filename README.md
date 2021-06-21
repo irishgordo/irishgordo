@@ -1,7 +1,5 @@
-<h1 style="text-align: center;">Oh hi there 👋, I'm Mike</h1>
-
-
-<div style="text-align: center;">
+<h1>Oh hi there 👋, I'm Mike</h1>
+<div>
 <img alt="A badge logo for AWS" src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">&nbsp;
 <img alt="A badge logo for Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-black?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black">&nbsp;
 <img alt="A badge logo for Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">&nbsp;
@@ -15,9 +13,6 @@
 <img alt="A badge logo for JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">&nbsp;
 <img alt="A badge logo for Rust" src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white&labelColor=black">&nbsp;
 </div>
-
-<br>
-
 <h2>🗺 Languages</h2>
 <div>
 <ul>
@@ -25,16 +20,13 @@
 <li>Plays nicely with: Java and JavaScript</li>
 <li>Eventually warms up to: Elixir and Ruby</li>
 <ul>
-<em><strong>Spoken Languages:</strong></em>
+<em><strong>Non-Computer Languages:</strong></em>
 <li>Native English</li>
 <li>Some Spanish</li>
 <li>Some German</li>
 </ul>
 </ul>
 </div>
-
-<br>
-
 <h2>😄 Bio</h2>
 <h3>Info:</h3>
 <ul>
@@ -51,16 +43,10 @@
 <li>baking sourdough bread</li>
 <li>contributing to open source</li>
 </ul>
-
-<br>
-
 <h2>📚 Certifications</h2>
 <ul>
 <li><a href="https://www.credly.com/badges/5f0bd66b-4952-4cb8-b6b7-03a50083394b">AWS Developer</a></li>
 </ul>
-
-<br>
-
 <h2>🖥 Hardware & Software</h2>
 <code>
 gordo@gordobox 
@@ -94,13 +80,8 @@ CPU: AMD Ryzen 9 5900X (24) @ 3.700GHz
 GPU: NVIDIA GEFORCE RTX 3070
 
 Memory: 7373MiB / 64286MiB 
-
 </code>
-
-<br>
-
 <h2>🔭 Links</h2>
-
 <ul>
 <li><a href="https://launchpad.net/~irishgordo">Canonical Launchpad Profile<a/</li>
 <li><a href="https://hub.docker.com/u/irishgordo">DockerHub Profile</a></li>
