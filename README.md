@@ -1,16 +1,109 @@
-### Hi there 👋
+<h1 style="text-align: center;">Oh hi there 👋, I'm Mike</h1>
 
-<!--
-**irishgordo/irishgordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="text-align: center;">
+<img alt="A badge logo for AWS" src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Digital Ocean" src="https://img.shields.io/badge/-Digital Ocean-black?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Ansible" src="https://img.shields.io/badge/-Ansible-black?style=for-the-badge&logo=ansible&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Linux" src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Kubernetes" src="https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Splunk" src="https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for New Relic" src="https://img.shields.io/badge/-New Relic-black?style=for-the-badge&logo=newrelic&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Go / Golang" src="https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Python" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">&nbsp;
+<img alt="A badge logo for Rust" src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust&logoColor=white&labelColor=black">&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h2>🗺 Languages</h2>
+<div>
+<ul>
+<li>Most enjoys languages like: Python, Go and Rust</li>
+<li>Plays nicely with: Java and JavaScript</li>
+<li>Eventually warms up to: Elixir and Ruby</li>
+<ul>
+<em><strong>Spoken Languages:</strong></em>
+<li>Native English</li>
+<li>Some Spanish</li>
+<li>Some German</li>
+</ul>
+</ul>
+</div>
+
+<br>
+
+<h2>😄 Bio</h2>
+<h3>Info:</h3>
+<ul>
+<li>Passionate about creating positive impacts in the day-to-day</li>
+<li>Forever learning, always curious</li>
+</ul>
+<h3>Likes:</h3>
+<ul>
+<li>volunteering in the community</li>
+<li>playing around on modular synths</li>
+<li>growing veggies hydroponically</li>
+<li>brewing beer</li>
+<li>exploring outside (hikes, bikes, hammocks, etc.)</li>
+<li>baking sourdough bread</li>
+<li>contributing to open source</li>
+</ul>
+
+<br>
+
+<h2>📚 Certifications</h2>
+<ul>
+<li><a href="https://www.credly.com/badges/5f0bd66b-4952-4cb8-b6b7-03a50083394b">AWS Developer</a></li>
+</ul>
+
+<br>
+
+<h2>🖥 Hardware & Software</h2>
+<code>
+gordo@gordobox 
+
+-------------- 
+
+OS: Pop!_OS 20.10 x86_64
+
+Kernel: 5.11.0-7614-generic
+
+Packages: 2859 (dpkg), 6 (flatpak), 18 (snap) 
+
+Shell: zsh 5.8 
+
+Resolution: 1440x2560, 3840x2160 
+
+DE: GNOME 3.38.3 
+
+WM: Mutter 
+
+WM Theme: Pop 
+
+Theme: Pop-dark [GTK2/3] 
+
+Icons: Pop [GTK2/3] 
+
+Terminal: kitty 
+
+CPU: AMD Ryzen 9 5900X (24) @ 3.700GHz 
+
+GPU: NVIDIA GEFORCE RTX 3070
+
+Memory: 7373MiB / 64286MiB 
+
+</code>
+
+<br>
+
+<h2>🔭 Links</h2>
+
+<ul>
+<li><a href="https://launchpad.net/~irishgordo">Canonical Launchpad Profile<a/</li>
+<li><a href="https://hub.docker.com/u/irishgordo">DockerHub Profile</a></li>
+<li><a href="https://support.mozilla.org/en-US/user/michael.j.russell.email">Mozilla Support Wiki Contributor</a></li>
+<li><a href="https://www.linkedin.com/in/michael-russell-slc/">LinkedIn</a></li>
+</ul>
