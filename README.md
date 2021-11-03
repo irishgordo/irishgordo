@@ -52,6 +52,6 @@
 <li><a href="https://launchpad.net/~irishgordo">Canonical Launchpad Profile<a/</li>
 <li><a href="https://hub.docker.com/u/irishgordo">DockerHub Profile</a></li>
 <li><a href="https://support.mozilla.org/en-US/user/michael.j.russell.email">Mozilla Support Wiki Contributor</a></li>
-<li><a href="https://www.linkedin.com/in/michael-russell-slc/">LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/mike-russell-is-a-human/">LinkedIn</a></li>
 <li><a href="https://open.spotify.com/user/12159848207">Spotify</a></li>
 </ul>
