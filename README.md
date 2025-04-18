@@ -19,12 +19,12 @@
 <li>Most enjoys languages like: Python, Go and Rust</li>
 <li>Plays nicely with: Java and JavaScript</li>
 <li>Eventually warms up to: Elixir and Ruby</li>
-<ul>
+</ul>
 <em><strong>Non-Computer Languages:</strong></em>
+<ul>
 <li>Native English</li>
 <li>Some Spanish</li>
 <li>Some German</li>
-</ul>
 </ul>
 </div>
 <h2>😄 Bio</h2>
